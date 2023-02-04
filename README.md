@@ -24,4 +24,5 @@ I am 23 years old, I am studying a master in data science in dev.f, I am interes
 A list of technologies used within the project:
 * [Phyton] Version 3.0
 * [mySQL] Version 5,7
-
+* [Java] Version 8.0
+* [PHP] Version 8.1
